@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\david\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\david\source\repos\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\david\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\david\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\david\source\repos\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
