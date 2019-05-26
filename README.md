@@ -1,0 +1,1 @@
+Simple C sharp console app to watch if folder or file Creation/deletion/renaming
